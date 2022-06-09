@@ -10,6 +10,9 @@ public class Main {
         System.out.println("Pankaj commit");
         System.out.println("Hello world!");
         System.out.println("Pankaj commit");
+        //Adding new code to master by another developer1
+        System.out.println("Hello world! from developer 1");
+        System.out.println("Pankaj commit from developer1");
 
     }
 }
