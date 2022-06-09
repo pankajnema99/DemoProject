@@ -14,5 +14,8 @@ public class Main {
         System.out.println("Hello world! from developer 1");
         System.out.println("Pankaj commit from developer1");
 
+        //Adding new code to master by another developer
+        System.out.println("Hello world! from developer 2");
+        System.out.println("Pankaj commit from developer 2");
     }
 }
